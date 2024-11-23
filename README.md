@@ -25,7 +25,5 @@ To run the **Random Password Generator** locally, follow these steps:
    ```bash
    git clone https://github.com/Mithun-AM/Random-Password-Generator.git
 
-## How to Run
-1. Clone the repository to your local machine.
 2. Open the index.html file in any modern web browser.
 3. Start playing!
